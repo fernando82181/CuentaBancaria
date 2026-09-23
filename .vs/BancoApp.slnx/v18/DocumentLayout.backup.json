@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carta\\source\\repos\\BancoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A13A4E-7BC1-474F-9615-E28DE80B3406}|BancoApp\\BancoApp.csproj|c:\\users\\carta\\source\\repos\\bancoapp\\bancoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A13A4E-7BC1-474F-9615-E28DE80B3406}|BancoApp\\BancoApp.csproj|solutionrelative:bancoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A13A4E-7BC1-474F-9615-E28DE80B3406}|BancoApp\\BancoApp.csproj|c:\\users\\carta\\source\\repos\\bancoapp\\bancoapp\\clases\\cuentaahorros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A13A4E-7BC1-474F-9615-E28DE80B3406}|BancoApp\\BancoApp.csproj|solutionrelative:bancoapp\\clases\\cuentaahorros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A13A4E-7BC1-474F-9615-E28DE80B3406}|BancoApp\\BancoApp.csproj|c:\\users\\carta\\source\\repos\\bancoapp\\bancoapp\\clases\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A13A4E-7BC1-474F-9615-E28DE80B3406}|BancoApp\\BancoApp.csproj|solutionrelative:bancoapp\\clases\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A13A4E-7BC1-474F-9615-E28DE80B3406}|BancoApp\\BancoApp.csproj|c:\\users\\carta\\source\\repos\\bancoapp\\bancoapp\\clases\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A13A4E-7BC1-474F-9615-E28DE80B3406}|BancoApp\\BancoApp.csproj|solutionrelative:bancoapp\\clases\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A13A4E-7BC1-474F-9615-E28DE80B3406}|BancoApp\\BancoApp.csproj|c:\\users\\carta\\source\\repos\\bancoapp\\bancoapp\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A13A4E-7BC1-474F-9615-E28DE80B3406}|BancoApp\\BancoApp.csproj|solutionrelative:bancoapp\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\carta\\source\\repos\\BancoApp\\BancoApp\\Clases\\Cliente.cs",
+              "RelativeDocumentMoniker": "BancoApp\\Clases\\Cliente.cs",
+              "ToolTip": "C:\\Users\\carta\\source\\repos\\BancoApp\\BancoApp\\Clases\\Cliente.cs",
+              "RelativeToolTip": "BancoApp\\Clases\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:27:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentaCorriente.cs",
+              "DocumentMoniker": "C:\\Users\\carta\\source\\repos\\BancoApp\\BancoApp\\Clases\\CuentaCorriente.cs",
+              "RelativeDocumentMoniker": "BancoApp\\Clases\\CuentaCorriente.cs",
+              "ToolTip": "C:\\Users\\carta\\source\\repos\\BancoApp\\BancoApp\\Clases\\CuentaCorriente.cs",
+              "RelativeToolTip": "BancoApp\\Clases\\CuentaCorriente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:27:44.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaAhorros.cs",
+              "DocumentMoniker": "C:\\Users\\carta\\source\\repos\\BancoApp\\BancoApp\\Clases\\CuentaAhorros.cs",
+              "RelativeDocumentMoniker": "BancoApp\\Clases\\CuentaAhorros.cs",
+              "ToolTip": "C:\\Users\\carta\\source\\repos\\BancoApp\\BancoApp\\Clases\\CuentaAhorros.cs",
+              "RelativeToolTip": "BancoApp\\Clases\\CuentaAhorros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:27:25.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\carta\\source\\repos\\BancoApp\\BancoApp\\Clases\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "BancoApp\\Clases\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\carta\\source\\repos\\BancoApp\\BancoApp\\Clases\\CuentaBancaria.cs",
+              "RelativeToolTip": "BancoApp\\Clases\\CuentaBancaria.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:27:07.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carta\\source\\repos\\BancoApp\\BancoApp\\Program.cs",
+              "RelativeDocumentMoniker": "BancoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\carta\\source\\repos\\BancoApp\\BancoApp\\Program.cs",
+              "RelativeToolTip": "BancoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:26:09.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

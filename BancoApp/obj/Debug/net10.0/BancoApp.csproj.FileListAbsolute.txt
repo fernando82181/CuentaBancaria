@@ -1,0 +1,16 @@
+C:\Users\carta\source\repos\BancoApp\BancoApp\bin\Debug\net10.0\BancoApp.exe
+C:\Users\carta\source\repos\BancoApp\BancoApp\bin\Debug\net10.0\BancoApp.deps.json
+C:\Users\carta\source\repos\BancoApp\BancoApp\bin\Debug\net10.0\BancoApp.runtimeconfig.json
+C:\Users\carta\source\repos\BancoApp\BancoApp\bin\Debug\net10.0\BancoApp.dll
+C:\Users\carta\source\repos\BancoApp\BancoApp\bin\Debug\net10.0\BancoApp.pdb
+C:\Users\carta\source\repos\BancoApp\BancoApp\obj\Debug\net10.0\BancoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carta\source\repos\BancoApp\BancoApp\obj\Debug\net10.0\BancoApp.AssemblyInfoInputs.cache
+C:\Users\carta\source\repos\BancoApp\BancoApp\obj\Debug\net10.0\BancoApp.AssemblyInfo.cs
+C:\Users\carta\source\repos\BancoApp\BancoApp\obj\Debug\net10.0\BancoApp.csproj.CoreCompileInputs.cache
+C:\Users\carta\source\repos\BancoApp\BancoApp\obj\Debug\net10.0\BancoApp.sourcelink.json
+C:\Users\carta\source\repos\BancoApp\BancoApp\obj\Debug\net10.0\BancoApp.dll
+C:\Users\carta\source\repos\BancoApp\BancoApp\obj\Debug\net10.0\refint\BancoApp.dll
+C:\Users\carta\source\repos\BancoApp\BancoApp\obj\Debug\net10.0\BancoApp.pdb
+C:\Users\carta\source\repos\BancoApp\BancoApp\obj\Debug\net10.0\BancoApp.genruntimeconfig.cache
+C:\Users\carta\source\repos\BancoApp\BancoApp\obj\Debug\net10.0\ref\BancoApp.dll
+C:\Users\carta\source\repos\BancoApp\BancoApp\obj\Debug\net10.0\BancoApp.csproj.Up2Date
